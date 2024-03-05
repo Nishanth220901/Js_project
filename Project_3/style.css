@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+    text-align: center;
+    padding-bottom: 20px;
+}
+section{
+    /* text-align: center; */
+    background-color: whitesmoke;
+    width: 25%;
+    margin: auto;
+    display: flex;
+
+}
+    
+
+.box{
+    border: 1px solid blue;
+    padding: 10px;
+    margin-bottom: 5px;
+}
